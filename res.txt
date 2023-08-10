@@ -1,1 +1,1 @@
-regioni italiane: 0.4067
+italian regions: 0.4067
